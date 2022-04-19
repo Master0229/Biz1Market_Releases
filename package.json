@@ -1,0 +1,22 @@
+{
+  "name": "biz1market_releases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Master0229/Biz1Market_Releases.git"
+  },
+  "author": "Master",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Master0229/Biz1Market_Releases/issues"
+  },
+  "homepage": "https://github.com/Master0229/Biz1Market_Releases#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
